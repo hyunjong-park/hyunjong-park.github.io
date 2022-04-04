@@ -7,10 +7,9 @@ categories: Notice
 
 Hi, I'm Hyunjong Park, a data engineer living in Seoul, South Korea.
 
-I was thinking of a website with some info about me in the beginning but ended up with a blog.
-Not really sure what to write about. Hopefully I'll figure it out soon.
+In the beginning, I was thinking of a website with some info about me. However, ended up with a blog. Not really sure what to write about here yet. Hopefully I'll figure it out soon.
 
-Until then, it's only this post and _About me_.
+Until then, it's only this post and [About me](/about.html).
 I will come back with some posts that are worth reading.
 
 Bye!
