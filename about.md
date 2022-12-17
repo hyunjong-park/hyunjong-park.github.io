@@ -3,8 +3,8 @@ layout: page
 title: About me
 ---
 
-Hi, my name is Hyunjong Park, a data engineer at Corca, Inc., located in Seoul, South Korea.
-I started my career as a flight dispatcher at Korean Air. If you think the story of me becoming a data engineer will be interesting enough to read, you can find it below.
+Hi, my name is Hyunjong Park, a Senior Analyst, Data Science in GADM team at IATA, located in Montréal, Canada.
+I started my career as a flight dispatcher at Korean Air. If you find career changing stories interesting, you might like mine as well.
 
 ---
 
@@ -44,13 +44,20 @@ With the pandemic lasting much, much longer than everyone had expected, my eager
 
 ![orca](/assets/images/orca.png)
 
-> I work at Corca. The name was inspired by orca.
+> I worked at Corca. The name was inspired by orca.
 
-Well, that was the story of how a flight dispatcher becoming a data engineer (without a few details here and there).
+As a data engineer, I have done data analysis, data modeling, building batch data pipeline, and streaming data pipeline.
+I struggled a lot in the beginning since the industry was completely different. The way people work, main focus, environment were all different. In addition to that differences, my experiences in aviation industry was not useful. 
 
-Though I really liked the aviation industry, I am much happier to work as a data engineer. If you are one of those people who are considering a career change, I would say ‘go for it.’
+After about 1.5 year, I was offered a job as a data analyst at IATA.
+I was very fortunate to be offered for this position as I could utilize all of my knowledge and experience in aviation industry while at the same time use all the coding / developing skills that I have newly gained from working as a data engineer.
 
-Thank you for reading this long story of mine whatever the reason may be.
-I wish that my writing, my doings, or perhaps my existence somehow have been of some help to you in any way.
+The life as a aviation data analyst in Montréal is, so far, fantastic. Not only the job is interesting and challening enough, but also the city of Montréal is charming and enjoyable.
+
+To sum up, I felt devastated when unexpected things happened in my life, but by getting them through, they became my strength.
+Now, I feel I am ready to face any challenges in life.
+
+Thank you for reading this long story of mine whatever your reason may be.
+I wish that this story of mine was interesting to you.
 
 Have a great day.
