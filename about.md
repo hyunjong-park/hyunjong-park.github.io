@@ -52,6 +52,10 @@ I struggled a lot in the beginning since the industry was completely different. 
 After about 1.5 year, I was offered a job as a data analyst at IATA.
 I was very fortunate to be offered for this position as I could utilize all of my knowledge and experience in aviation industry while at the same time use all the coding / developing skills that I have newly gained from working as a data engineer.
 
+![Tour de La Bourse](/assets/images/tourdelabourse.jpg)
+
+> Place Victoria in Montreal.
+
 The life as a aviation data analyst in Montréal is, so far, fantastic. Not only the job is interesting and challening enough, but also the city of Montréal is charming and enjoyable.
 
 To sum up, I felt devastated when unexpected things happened in my life, but by getting them through, they became my strength.
